@@ -3,9 +3,11 @@
 Koneksi Database Mysql Ke PHP
 Judul "Sistem Penjualan"
 <br>
-ada 2 tabel <br>
+ada 4 tabel <br>
 1. Tabel Pelanggan <br>
-2. Tabel Barang
+2. Tabel Barang <br>
+3. Tabel Penjualan <br>
+4. Tabel Penjulalan_detail <br>
             
 # Desain database
 
