@@ -2,6 +2,6 @@
 
 Koneksi Database Mysql Ke PHP
 
-#screenshoot Home
+# screenshoot Home
 
 <img src="home.png" img>
