@@ -2,12 +2,13 @@
 
 Koneksi Database Mysql Ke PHP
 Judul "Sistem Penjualan"
-ada 2 tabel 1. Tabel Pelanggan
+<br>
+ada 2 tabel 1. Tabel Pelanggan <br>
             2. Tabel Barang
             
 # Desain database
 
-<img src="home.png" img>
+<img src="db.png" img>
             
 # screenshoot Home
 
