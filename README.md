@@ -1,18 +1,9 @@
-# Tugas 8
+#Authors
+Andrian lusmana <br>
+teknik informatika <br>
+universitas pelita bangsa
 
-Koneksi Database Mysql Ke PHP
-Judul "Sistem Penjualan"
-<br>
-ada 4 tabel <br>
-1. Tabel Pelanggan <br>
-2. Tabel Barang <br>
-3. Tabel Penjualan <br>
-4. Tabel Penjulalan_detail <br>
-            
-# Desain database
+#Tugas koneksi mysql
+tugas basis data <br>
+pertemuan 12 semeseter 2
 
-<img src="db.png" img>
-            
-# screenshoot Home
-
-<img src="home.png" img>
