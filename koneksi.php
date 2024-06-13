@@ -1,17 +1,14 @@
 <?php
-$host     = "localhost";
-$user     = "root";
-$password = "";
-$database = "messi_311111";
+$servername = "localhost";
+$username = "root"; 
+$password = ""; 
+$dbname = "andrian_uts_312310199";
 
+// Membuat koneksi
+$conn = new mysqli($servername, $username, $password, $dbname);
 
-
-$koneksi   = mysqli_connect($host, $user, $password, $database);
-
-if (mysqli_connect_errno($koneksi)) {
-   //this for show failed
-
-   echo "Failed to connect to MySQL: " . mysqli_connect_error();
-
+// Mengecek koneksi
+if ($conn->connect_error) {
+    die("Koneksi gagal: " . $conn->connect_error);
 }
 ?>
