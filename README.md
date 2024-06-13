@@ -6,7 +6,15 @@ Buat repo di github dengan judul tugas koneksi<br>
 Contoh -> https://github.com/codeaflaha/Sistem-Basis-Data-19.B1<br>
 https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1<br>
 Kumpulkan di ecampus waktu 1 minggu<br><br>
-TUGAS DATABASE_KONEKSI Mysql PHP<br><br>
+ <style>
+        .custom-hr {
+            border: none;
+            height: 2px;
+            background-color: #000; /* Warna hitam */
+            margin: 20px 0;
+        }
+    </style>
+TUGAS DATABASE_KONEKSI Mysql PHP<br>
 
 DESAIN DATABASE
 <img width="952" alt="Screenshot 2024-06-12 232109" src="https://github.com/andrianlusmana/Sistem-Basis-Data-19.B1/assets/172469165/52c01c44-3135-40d7-83ff-2f09e86cbfd8">
