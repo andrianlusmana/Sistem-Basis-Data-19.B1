@@ -7,7 +7,7 @@ Contoh -> https://github.com/codeaflaha/Sistem-Basis-Data-19.B1<br>
 https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1<br>
 Kumpulkan di ecampus waktu 1 minggu<br><br>
  
-<h3>TUGAS DATABASE_KONEKSI Mysql PHP<br><h3/>
+<h1>TUGAS DATABASE_KONEKSI Mysql PHP<br><h1/>
 
 DESAIN DATABASE
 <img width="952" alt="Screenshot 2024-06-12 232109" src="https://github.com/andrianlusmana/Sistem-Basis-Data-19.B1/assets/172469165/52c01c44-3135-40d7-83ff-2f09e86cbfd8">
