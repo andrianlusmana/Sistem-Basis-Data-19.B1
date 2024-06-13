@@ -1,11 +1,11 @@
-Tugas koneksi mysql
-Menggunkan data yang dibuat dari soal Uts kemarin.
-Buat koneksi dengan php .
-Tampilkan data tabelnya masing2.
-Buat repo di github dengan judul tugas koneksi
-Contoh -> https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
-https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
-Kumpulkan di ecampus waktu 1 minggu
+Tugas koneksi mysql<br>
+Menggunkan data yang dibuat dari soal Uts kemarin.<br>
+Buat koneksi dengan php .<br>
+Tampilkan data tabelnya masing2.<br>
+Buat repo di github dengan judul tugas koneksi<br>
+Contoh -> https://github.com/codeaflaha/Sistem-Basis-Data-19.B1<br>
+https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1<br>
+Kumpulkan di ecampus waktu 1 minggu<br>
 
 DESAIN DATABASE
 <img width="952" alt="Screenshot 2024-06-12 232109" src="https://github.com/andrianlusmana/Sistem-Basis-Data-19.B1/assets/172469165/52c01c44-3135-40d7-83ff-2f09e86cbfd8">
